@@ -56,7 +56,7 @@ AdminEAP demo：[http://www.admineap.com](http://www.admineap.com)
 
 AdminEAP 技术文档：[http://code.admineap.com/eap/doc](http://code.admineap.com/eap/doc)
 
-在项目部署时如出现问题，请加QQ群：`346837703`，或者发送邮件至 admin@admineap.com。
+在项目部署时如出现问题，请加QQ群：`943672119`,`346837703(已满)`，或者发送邮件至 admin@admineap.com。
 
 如购买专业版及相关服务，请联系QQ：`475572229`，或者发送邮件至`475572229@qq.com`
 关于专业版与开源版本的区别，详见：[http://code.admineap.com/eap/home](http://code.admineap.com/eap/home)
